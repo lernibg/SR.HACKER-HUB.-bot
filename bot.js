@@ -12,7 +12,7 @@ bot.on('message', message =>{
     if(message.author.id != "508868117661745153" && message.channel.id === "508219003685175311"){
         if(msg.startsWith('#', 0)){
             if(msg === prefix + "help" && message.channel.id === "508219003685175311"){
-                message.channel.send('HEY I AM RITESH THIS GROUPE SO ' I HELP YOU..??') // Sends a message to the channel, with the content
+                message.channel.send('HEY I AM RITESH THIS GROUPE ADMIN..??') // Sends a message to the channel, with the content
             }
             else{
                 message.channel.send("Hey, I only understand #help right now. More will be added when my creator is free. :) ")

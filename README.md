@@ -1,2 +1,2 @@
 # SR.HACKER-HUB.-bot
-SR.HACJER HUB MANAGER
+Bot using heroku, 24/7!
